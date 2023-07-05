@@ -3,10 +3,8 @@
 - name: Danil;
 - age: 23;
 - country: Belarus;
-
 ---
 __Education__
-
 ___University / College:___
 * Gomel College of Trade and Economics
 ___Speciality:___
@@ -18,6 +16,5 @@ ___Speciality:___
 ```
 Hi, my name is Danil. I am taking online courses at RS School to get the necessary
 skills and find a cool job in an IT company
-
 ```
 ---
